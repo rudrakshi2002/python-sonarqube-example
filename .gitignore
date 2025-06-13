@@ -5,4 +5,4 @@ coverage.xml
 *-report.txt
 *-report.xml
 __pycache__
-.penvsonar
+.penvsonar.venv/ 
