@@ -37,4 +37,4 @@ docker run \
 -e SONAR_TOKEN="xxxxxx" \
 -v "${PWD}:/usr/src" \
 sonarsource/sonar-scanner-cli
-```
+```"# trigger pipeline" 
